@@ -1,0 +1,11 @@
+D:\workspace\C#Basics\LabCode\SimpleInterest\bin\Debug\netcoreapp3.1\SimpleInterest.exe
+D:\workspace\C#Basics\LabCode\SimpleInterest\bin\Debug\netcoreapp3.1\SimpleInterest.deps.json
+D:\workspace\C#Basics\LabCode\SimpleInterest\bin\Debug\netcoreapp3.1\SimpleInterest.runtimeconfig.json
+D:\workspace\C#Basics\LabCode\SimpleInterest\bin\Debug\netcoreapp3.1\SimpleInterest.runtimeconfig.dev.json
+D:\workspace\C#Basics\LabCode\SimpleInterest\bin\Debug\netcoreapp3.1\SimpleInterest.dll
+D:\workspace\C#Basics\LabCode\SimpleInterest\bin\Debug\netcoreapp3.1\SimpleInterest.pdb
+D:\workspace\C#Basics\LabCode\SimpleInterest\obj\Debug\netcoreapp3.1\SimpleInterest.csprojAssemblyReference.cache
+D:\workspace\C#Basics\LabCode\SimpleInterest\obj\Debug\netcoreapp3.1\SimpleInterest.AssemblyInfoInputs.cache
+D:\workspace\C#Basics\LabCode\SimpleInterest\obj\Debug\netcoreapp3.1\SimpleInterest.AssemblyInfo.cs
+D:\workspace\C#Basics\LabCode\SimpleInterest\obj\Debug\netcoreapp3.1\SimpleInterest.dll
+D:\workspace\C#Basics\LabCode\SimpleInterest\obj\Debug\netcoreapp3.1\SimpleInterest.pdb

@@ -1,0 +1,11 @@
+D:\workspace\C#Basics\LabCode\LabCode\bin\Debug\netcoreapp3.0\LabCode.exe
+D:\workspace\C#Basics\LabCode\LabCode\bin\Debug\netcoreapp3.0\LabCode.deps.json
+D:\workspace\C#Basics\LabCode\LabCode\bin\Debug\netcoreapp3.0\LabCode.runtimeconfig.json
+D:\workspace\C#Basics\LabCode\LabCode\bin\Debug\netcoreapp3.0\LabCode.runtimeconfig.dev.json
+D:\workspace\C#Basics\LabCode\LabCode\bin\Debug\netcoreapp3.0\LabCode.dll
+D:\workspace\C#Basics\LabCode\LabCode\bin\Debug\netcoreapp3.0\LabCode.pdb
+D:\workspace\C#Basics\LabCode\LabCode\obj\Debug\netcoreapp3.0\LabCode.csprojAssemblyReference.cache
+D:\workspace\C#Basics\LabCode\LabCode\obj\Debug\netcoreapp3.0\LabCode.AssemblyInfoInputs.cache
+D:\workspace\C#Basics\LabCode\LabCode\obj\Debug\netcoreapp3.0\LabCode.AssemblyInfo.cs
+D:\workspace\C#Basics\LabCode\LabCode\obj\Debug\netcoreapp3.0\LabCode.dll
+D:\workspace\C#Basics\LabCode\LabCode\obj\Debug\netcoreapp3.0\LabCode.pdb
