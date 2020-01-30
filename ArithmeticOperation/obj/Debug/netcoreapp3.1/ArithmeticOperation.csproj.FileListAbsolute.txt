@@ -1,0 +1,10 @@
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\bin\Debug\netcoreapp3.1\ArithmeticOperation.exe
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\bin\Debug\netcoreapp3.1\ArithmeticOperation.deps.json
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\bin\Debug\netcoreapp3.1\ArithmeticOperation.runtimeconfig.json
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\bin\Debug\netcoreapp3.1\ArithmeticOperation.runtimeconfig.dev.json
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\bin\Debug\netcoreapp3.1\ArithmeticOperation.dll
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\bin\Debug\netcoreapp3.1\ArithmeticOperation.pdb
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\obj\Debug\netcoreapp3.1\ArithmeticOperation.AssemblyInfoInputs.cache
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\obj\Debug\netcoreapp3.1\ArithmeticOperation.AssemblyInfo.cs
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\obj\Debug\netcoreapp3.1\ArithmeticOperation.dll
+D:\workspace\C#Basics\LabCode\ArithmeticOperation\obj\Debug\netcoreapp3.1\ArithmeticOperation.pdb
